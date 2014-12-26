@@ -1,5 +1,6 @@
 *.sdf
-Debug
-Release
-Flappy Bird/Debug
-Flappy Bird/Release
+*.exe
+*.obj
+*.lib
+*.log
+*.tlog
